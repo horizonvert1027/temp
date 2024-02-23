@@ -1,0 +1,673 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        2.098241090774536,
+        2.5991721153259277,
+        -1.3330731391906738
+      ],
+      "min": [
+        -2.1017587184906006,
+        -3.181572914123535,
+        -1.5330731868743896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1176,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 98,
+      "max": [
+        1.3821299076080322,
+        1.3821299076080322
+      ],
+      "min": [
+        -0.0630563497543335,
+        -0.0630563497543335
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 216,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2352,
+      "componentType": 5126,
+      "count": 187,
+      "max": [
+        2.098241090774536,
+        2.5991721153259277,
+        2.520131826400757
+      ],
+      "min": [
+        -2.1017587184906006,
+        -3.181572914123535,
+        1.0780835151672363
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4596,
+      "componentType": 5126,
+      "count": 187,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 784,
+      "componentType": 5126,
+      "count": 187,
+      "max": [
+        1.245484471321106,
+        1.3059234619140625
+      ],
+      "min": [
+        -0.2246081829071045,
+        -0.19970178604125977
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 864,
+      "componentType": 5125,
+      "count": 327,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6840,
+      "componentType": 5126,
+      "count": 353,
+      "max": [
+        2.5622410774230957,
+        2.4991722106933594,
+        1.0780835151672363
+      ],
+      "min": [
+        -2.56575870513916,
+        -3.6455726623535156,
+        -1.5330731868743896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11076,
+      "componentType": 5126,
+      "count": 353,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2280,
+      "componentType": 5126,
+      "count": 353,
+      "max": [
+        1.3487966060638428,
+        0.7883199453353882
+      ],
+      "min": [
+        -0.04638969898223877,
+        0.18341928720474243
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2172,
+      "componentType": 5125,
+      "count": 663,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15312,
+      "componentType": 5126,
+      "count": 234,
+      "max": [
+        1.9982410669326782,
+        2.474172353744507,
+        0.18593978881835938
+      ],
+      "min": [
+        -2.0017588138580322,
+        -3.081573009490967,
+        -1.3330731391906738
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18120,
+      "componentType": 5126,
+      "count": 234,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5104,
+      "componentType": 5126,
+      "count": 234,
+      "max": [
+        0.7585862874984741,
+        0.733586311340332
+      ],
+      "min": [
+        0.2585863173007965,
+        0.26798921823501587
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4824,
+      "componentType": 5125,
+      "count": 408,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 20928,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        1.948241114616394,
+        1.399172306060791,
+        0.11493325233459473
+      ],
+      "min": [
+        -1.9517589807510376,
+        -3.018573045730591,
+        -1.3330731391906738
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21120,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6976,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.6072502136230469,
+        0.681000828742981
+      ],
+      "min": [
+        0.36250001192092896,
+        0.27036917209625244
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6456,
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21312,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        1.0616488456726074,
+        2.4241724014282227,
+        0.10879111289978027
+      ],
+      "min": [
+        -1.9517589807510376,
+        -2.630377769470215,
+        -0.7330646514892578
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 21504,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        1.0,
+        1.0,
+        0.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7104,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        0.606249988079071,
+        0.600000262260437
+      ],
+      "min": [
+        0.39375001192092896,
+        0.3999997079372406
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6552,
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "chroma3d (https://sketchfab.com/vendol21)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/low-poly-simple-house-6a62234713884ef99d95803d7590d183",
+      "title": "Low Poly Simple House"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6648,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7232,
+      "byteOffset": 6648,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21696,
+      "byteOffset": 13880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 35576,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "House02Slabs",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0563873,
+          0.0563873,
+          0.0563873,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9873914164132326
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "House02Roof",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.144129,
+          0.0356013,
+          0.0273209,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9870137123011491
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "House02Walls",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.661889,
+          0.382326,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8499448682346548
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "House02Frame",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.150056,
+          0.123007,
+          0.0721035,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.972030728502302
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "House02Door",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.214035,
+          0.133682,
+          0.0998888,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9668334817517832
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "House02Window",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.313223,
+          0.233573,
+          0.129046,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9456725504222685
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HouseType02_House02Slabs_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HouseType02_House02Roof_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HouseType02_House02Walls_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HouseType02_House02Frame_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HouseType02_House02Door_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "HouseType02_House02Window_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "508ede17a8574bbeb52085009abc87ba.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "HouseType02"
+    },
+    {
+      "mesh": 0,
+      "name": "HouseType02_House02Slabs_0"
+    },
+    {
+      "mesh": 1,
+      "name": "HouseType02_House02Roof_0"
+    },
+    {
+      "mesh": 2,
+      "name": "HouseType02_House02Walls_0"
+    },
+    {
+      "mesh": 3,
+      "name": "HouseType02_House02Frame_0"
+    },
+    {
+      "mesh": 4,
+      "name": "HouseType02_House02Door_0"
+    },
+    {
+      "mesh": 5,
+      "name": "HouseType02_House02Window_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
